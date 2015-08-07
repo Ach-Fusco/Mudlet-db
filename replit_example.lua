@@ -1,11 +1,3 @@
----!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!---
----     D:   !!!!!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!   :D      ---
----!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!---
-
--- I don't know how to make kobra.io read only, please copy the this
--- code to a new instance of kobra if you want to change any code
--- so others can still access the original
-
 
 -----------------------------------------------------------
 -- This stuff at the top is just to make the terminal -----
